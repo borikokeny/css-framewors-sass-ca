@@ -1,1 +1,8 @@
+// Bootstrap variable overrides (a .scss le is maradhat mindenhol)
+@import "variables.scss";
+
+// Bootstrap Styles
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Original Styles
+@import ".components/header";
